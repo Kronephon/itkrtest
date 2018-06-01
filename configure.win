@@ -5,7 +5,7 @@ CXX=`R CMD config CXX`
 JTHREADS=2
 CMAKE_BUILD_TYPE=Release
 cd ./src
-itkgit=https://github.com/Kronephon/testitk/ITK.git
+itkgit=https://github.com/Kronephon/testitk/testitk.git
 # itktag=2714cc1805f50504f5b9a60d0f62ffec8e73989 # 4.11
 # itktag=c5138560409c75408ff76bccff938f21e5dcafc6 # 4.12
 # itktag=d92873e33e8a54e933e445b92151191f02feab42 # 4.13
